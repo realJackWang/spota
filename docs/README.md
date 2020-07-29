@@ -26,4 +26,4 @@
 
 官方QQ群：1061209789
 
-Email：spota.app@gmail.com
+Email：spota.help@gmail.com
