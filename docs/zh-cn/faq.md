@@ -12,4 +12,10 @@
 3. 激活码如何获取？
 
    点击[加群](https://jq.qq.com/?wv=1027&k=0CcA7oRO)联系群主
+   
+4. 我该去哪下载好看的图标？
+
+   * [Iconfont](https://www.iconfont.cn/)
+   * [Icons](https://icons8.com/icons)
+   * [Logoeps](https://logoeps.com/)
 
