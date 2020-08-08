@@ -2,7 +2,7 @@
 
 
 
-# Windows (Beta)
+# Windows (v0.8.3-Beta)
 
 * 蓝奏云下载
 
