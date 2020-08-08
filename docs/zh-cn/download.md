@@ -6,8 +6,8 @@
 
 * 蓝奏云下载
 
-  * [64-bit]()
-  * [32-bit]()
+  * [64-bit](https://spota.lanzous.com/b00ntdpub)
+  * [32-bit](https://spota.lanzous.com/b00ntdpub)
 
   
 
