@@ -2,13 +2,13 @@
 
 
 
-# Windows (v0.8.4-Beta)
+# Windows (v0.8.4-Beta)（无法使用，等待更新）
 
 * 蓝奏云下载
 
-  * [64-bit](https://spota.lanzous.com/b00ntdpub)
-  * [32-bit](https://spota.lanzous.com/b00ntdpub)
-  * [历史版本](https://spota.lanzous.com/iNF4Ufeo3zg)
+  * [64-bit](https://spota.lanzoux.com/b00ntdpub)
+  * [32-bit](https://spota.lanzoux.com/b00ntdpub)
+  * [历史版本](https://spota.lanzoux.com/b00ntdpyf)
 
   
 
